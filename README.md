@@ -5,9 +5,10 @@
   <img src="https://img.shields.io/badge/Mathematics%20(Applied%20Science)-182B49?style=flat-square" alt="Mathematics (Applied Science)"/>
   <img src="https://img.shields.io/badge/UC%20San%20Diego-182B49?style=flat-square" alt="UC San Diego"/>
   <img src="https://img.shields.io/badge/Class%20of%202027-182B49?style=flat-square" alt="Class of 2027"/>
+  <a href="https://alexwoods1.github.io/"><img src="https://img.shields.io/badge/Portfolio-alexwoods1.github.io-FFCD00?style=flat-square&labelColor=182B49" alt="Portfolio: alexwoods1.github.io"/></a>
 </p>
 
-I'm a Cognitive Science (Machine Learning and Neural Computation) and Applied Mathematics student at UC San Diego. I'm interested in machine learning and computational neuroscience, especially spiking neural networks and EEG, and in building AI products at hackathons.
+I'm a Cognitive Science (Machine Learning and Neural Computation) and Applied Mathematics student at UC San Diego. I'm interested in machine learning and computational neuroscience, especially spiking neural networks and EEG, and in building AI products at hackathons. Check out my interactive portfolio at **[alexwoods1.github.io](https://alexwoods1.github.io/)**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFCD00&height=2" width="100%"/>
 
@@ -109,6 +110,7 @@ I'm a Cognitive Science (Machine Learning and Neural Computation) and Applied Ma
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFCD00&height=2" width="100%"/>
 
 <p align="center">
+  <a href="https://alexwoods1.github.io/"><img src="https://img.shields.io/badge/Portfolio-182B49?style=for-the-badge&logoColor=FFCD00" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/alexjwoods/"><img src="https://img.shields.io/badge/LinkedIn-182B49?style=for-the-badge&logo=linkedin&logoColor=FFCD00" alt="LinkedIn"/></a>
   <a href="mailto:a5woods@ucsd.edu"><img src="https://img.shields.io/badge/Email-182B49?style=for-the-badge&logoColor=FFCD00" alt="Email"/></a>
   <a href="https://github.com/AlexWoods1"><img src="https://img.shields.io/badge/GitHub-182B49?style=for-the-badge&logo=github&logoColor=FFCD00" alt="GitHub"/></a>
