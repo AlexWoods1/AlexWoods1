@@ -73,6 +73,7 @@ I'm a Cognitive Science (Machine Learning and Neural Computation) and Applied Ma
 ![SciPy](https://img.shields.io/badge/SciPy-182B49?style=for-the-badge&logo=scipy&logoColor=FFCD00)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-182B49?style=for-the-badge&logoColor=FFCD00)
 ![seaborn](https://img.shields.io/badge/seaborn-182B49?style=for-the-badge&logoColor=FFCD00)
+![statsmodels](https://img.shields.io/badge/statsmodels-182B49?style=for-the-badge&logoColor=FFCD00)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-182B49?style=for-the-badge&logo=scikitlearn&logoColor=FFCD00)
 ![Keras](https://img.shields.io/badge/Keras-182B49?style=for-the-badge&logo=keras&logoColor=FFCD00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-182B49?style=for-the-badge&logo=pytorch&logoColor=FFCD00)
