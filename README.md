@@ -55,6 +55,7 @@ I'm a Cognitive Science (Machine Learning and Neural Computation) and Applied Ma
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-182B49?style=for-the-badge&logo=git&logoColor=FFCD00)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-182B49?style=for-the-badge&logo=githubactions&logoColor=FFCD00)
 ![Cursor](https://img.shields.io/badge/Cursor-182B49?style=for-the-badge&logo=cursor&logoColor=FFCD00)
 ![PyCharm](https://img.shields.io/badge/PyCharm-182B49?style=for-the-badge&logo=pycharm&logoColor=FFCD00)
 ![Pytest](https://img.shields.io/badge/Pytest-182B49?style=for-the-badge&logo=pytest&logoColor=FFCD00)
@@ -63,17 +64,20 @@ I'm a Cognitive Science (Machine Learning and Neural Computation) and Applied Ma
 ![WSL](https://img.shields.io/badge/WSL-182B49?style=for-the-badge&logoColor=FFCD00)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-182B49?style=for-the-badge&logo=ubuntu&logoColor=FFCD00)
 ![Vercel](https://img.shields.io/badge/Vercel-182B49?style=for-the-badge&logo=vercel&logoColor=FFCD00)
+![Arduino](https://img.shields.io/badge/Arduino-182B49?style=for-the-badge&logo=arduino&logoColor=FFCD00)
 
 **Libraries**
 
 ![NumPy](https://img.shields.io/badge/NumPy-182B49?style=for-the-badge&logo=numpy&logoColor=FFCD00)
 ![pandas](https://img.shields.io/badge/pandas-182B49?style=for-the-badge&logo=pandas&logoColor=FFCD00)
+![SciPy](https://img.shields.io/badge/SciPy-182B49?style=for-the-badge&logo=scipy&logoColor=FFCD00)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-182B49?style=for-the-badge&logoColor=FFCD00)
 ![seaborn](https://img.shields.io/badge/seaborn-182B49?style=for-the-badge&logoColor=FFCD00)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-182B49?style=for-the-badge&logo=scikitlearn&logoColor=FFCD00)
 ![Keras](https://img.shields.io/badge/Keras-182B49?style=for-the-badge&logo=keras&logoColor=FFCD00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-182B49?style=for-the-badge&logo=pytorch&logoColor=FFCD00)
 ![JAX](https://img.shields.io/badge/JAX-182B49?style=for-the-badge&logoColor=FFCD00)
+![OpenCV](https://img.shields.io/badge/OpenCV-182B49?style=for-the-badge&logo=opencv&logoColor=FFCD00)
 ![EEGLAB](https://img.shields.io/badge/EEGLAB-182B49?style=for-the-badge&logoColor=FFCD00)
 ![FastAPI](https://img.shields.io/badge/FastAPI-182B49?style=for-the-badge&logo=fastapi&logoColor=FFCD00)
 
