@@ -85,7 +85,7 @@ I'm a Cognitive Science (Machine Learning and Neural Computation) and Applied Ma
 
 ![Gemini](https://img.shields.io/badge/Gemini-182B49?style=for-the-badge&logo=googlegemini&logoColor=FFCD00)
 ![Claude](https://img.shields.io/badge/Claude-182B49?style=for-the-badge&logo=claude&logoColor=FFCD00)
-![Cursor](https://img.shields.io/badge/Cursor-182B49?style=for-the-badge&logo=cursor&logoColor=FFCD00)
+![Composer](https://img.shields.io/badge/Composer-182B49?style=for-the-badge&logo=cursor&logoColor=FFCD00)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-182B49?style=for-the-badge&logoColor=FFCD00)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFCD00&height=2" width="100%"/>
